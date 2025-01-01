@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "399832788898",
+    "project_id": "coding-minds-flutter",
+    "storage_bucket": "coding-minds-flutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399832788898:android:02985bf476b87bb17f0cfb",
+        "android_client_info": {
+          "package_name": "com.sleepwell.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbQlpMVOJSN6F3U1kNW3OY0Epzlt38SJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
